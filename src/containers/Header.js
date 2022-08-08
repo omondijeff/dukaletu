@@ -2,10 +2,11 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="ui fixed menu">
-      <div className="ui container center">
-        <h2>DukaLetu</h2>
-      </div>
+    <div class="">
+      <h2 class="ui header">
+        <i class="plug icon"></i>
+        <div class="content">DukaLetu</div>
+      </h2>
     </div>
   );
 };
