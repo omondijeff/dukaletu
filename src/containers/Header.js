@@ -80,7 +80,7 @@ export default () => {
               height={50}
               alt="Float UI logo"
             /> */}
-            DukaLetu
+            <h1>DukaLetu</h1>
           </a>
         </div>
         <div className="flex-1 flex items-center justify-between">
